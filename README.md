@@ -1,2 +1,2 @@
 # Programacion
-Ejemplo de programa básico
+Ejemplo de programas básicos
